@@ -1,12 +1,18 @@
-# Frontend Mentor - Newsletter sign-up form with success message
+Went back to 100 Days of Coding challenge. Begun with this frontend mentor challenge. Below are instructions on how to go about the challenge.
+
+# What I have learnt.
+1. How to configure Tailwind CSS on HTML files.
+2. JavaScript - especially the DOMContentLoaded and eventListeners.
+
+I used HTML, TailWind CSS, and JavaScript, and delpoyed it on GitHub Pages.
+
+###### 
+[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+
+## Frontend Mentor - Newsletter sign-up form with success message
 
 ![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
-
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
