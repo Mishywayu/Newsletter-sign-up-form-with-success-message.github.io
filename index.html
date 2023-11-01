@@ -4,8 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
-
   <script src="https://cdn.tailwindcss.com"></script>
   
   <title>Frontend Mentor | Newsletter sign-up form with success message</title>
@@ -33,15 +31,16 @@
     <div id="main-card">
       <div class="flex items-center justify-center mx-auto bg-white w-5/6 md:w-2/3 gap-4 rounded-2xl flex-container">
         <div class="order-first md:order-last w-full md:w-1/2 md:p-6">
-          <img src="/assets/images/illustration-sign-up-desktop.svg" alt="illustration-sign" class="w-full" />
+          <img src="/src/images/illustration-sign-up-desktop.svg" alt="illustration-sign" class="w-full" />
         </div>
         <div class="w-full md:w-1/2 p-6 md:pl-12">
           <h1 class="text-4xl md:text-5xl text-gray-900 font-bold">Stay updated!</h1>
           <p class="pt-8">Join 60,000+ product managers receiving monthly updates on:</p>
+          <p class="text-red-200">Hello</p>
           <ul class="pt-4">
-            <li class="flex items-center gap-4 pb-2"><span><img src="/assets/images/icon-list.svg" alt="list" /></span>Product discovery and building what matters</li>
-            <li class="flex items-center gap-4 pb-2"><span><img src="/assets/images/icon-list.svg" alt="list" /></span>Measuring to ensure updates are a success</li>
-            <li class="flex items-center gap-4"><span><img src="/assets/images/icon-list.svg" alt="list" /></span>And much more!</li>
+            <li class="flex items-center gap-4 pb-2"><span><img src="/src/images/icon-list.svg" alt="list" /></span>Product discovery and building what matters</li>
+            <li class="flex items-center gap-4 pb-2"><span><img src="/src/images/icon-list.svg" alt="list" /></span>Measuring to ensure updates are a success</li>
+            <li class="flex items-center gap-4"><span><img src="/src/images/icon-list.svg" alt="list" /></span>And much more!</li>
           </ul>
           <form class="pt-10">
             <h2 class="font-bold">Email address</h2>
@@ -56,7 +55,7 @@
     <!-- Success message -->
     <div id="success-card" class="hidden pt-18">
       <div class="w-full md:w-1/3 h-auto p-6 md:p-8 mt-0 md:mt-24 mx-auto bg-white md:rounded-2xl">
-        <span><img src="/assets/images/icon-success.svg" alt="success" class="w-12" /></span>
+        <span><img src="/src/images/icon-success.svg" alt="success" class="w-12" /></span>
         <h1 class="pt-8 text-2xl md:text-4xl text-gray-900 font-bold">Thanks for subscribing!</h1>
         <p class="pt-6 md:pt-6 text-sm text-gray-900 font-semibold">A confirmation email has been sent to <span class="font-bold">ash@loremcompany.com.</span> 
           Please open it and click the button inside to confirm your subscription.</p>
@@ -66,5 +65,5 @@
 
   </div> 
 </body>
-<script src="/src/main.js"></script>
+<script src="/main.js"></script>
 </html>
