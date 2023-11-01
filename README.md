@@ -4,7 +4,7 @@ Went back to 100 Days of Coding challenge. Begun with this frontend mentor chall
 1. How to configure Tailwind CSS on HTML files.
 2. JavaScript - especially the DOMContentLoaded and eventListeners.
 
-I used HTML, TailWind CSS, and JavaScript, and delpoyed it on GitHub Pages.
+I used HTML, TailWind CSS, and JavaScript, and delpoyed it on either GitHub Pages or Netlify.
 
 ###### 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
